@@ -1,4 +1,3 @@
-package cs601.httpserver;
 import java.util.HashMap;
 
 /**
