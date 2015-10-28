@@ -7,3 +7,10 @@ Basic Defintions of the Classes are below:
 3. HTTPServerResponse creates the Response header and body to be sent back to client via Sockets.
 4. Sample Class for starting server and mapping of your handlers to the URL has been provided in the folder: Sample Class for Starting HTTP Server
 
+
+To Run
+----------------------------------------------------------------------------------------
+1. java StartServer /home/public/datasets/input 10000
+
+"10000" is the port number in the server where it accepts the client connection.
+"/home/public/datasets/input" is the directory where I am building the store to create a datastructure which is holding all the information realted to MyStore.
